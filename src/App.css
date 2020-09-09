@@ -1,10 +1,53 @@
 .App {
   text-align: center;
+  margin: auto;
+  font-size: large;
+  font-weight: bold;
+  font-family: Ayuthaya, Helvetica, sans-serif;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+p {
+  font-family: Ayuthaya, Helvetica, sans-serif;
+}
+h3 {
+  font-size: medium;
+}
+h1 {
+  margin: -30px;
+  color: gold;
+  font-size: xx-large;
+}
+
+.modal {
+  background-color: #282c34;
+}
+
+.purple {
+  color: #282c34;
+}
+
+.carousel{
+  margin-left: 100px;
+  margin-right: 100px;
+  width: 50%;
+}
+
+.surprise{
+  animation: shake 0.82s cubic-bezier(.36, .07, .19, .97) both infinite;
+  transform: translate3d(0, 0, 0);
+  backface-visibility: hidden;
+  perspective: 1000px;
+}
+
+button{
+  backface-visibility: hidden;
+  margin-bottom: 5px;
+  padding: 20px;
+  font-weight: bold;
+  font-family: Ayuthaya, Helvetica, sans-serif;
+  background-color: lightseagreen;
+  border-radius: 20px;
+  color: white;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -34,5 +77,25 @@
   }
   to {
     transform: rotate(360deg);
+  }
+}
+
+@keyframes shake {
+  10%,
+  90% {
+    transform: translate3d(-1px, 0, 0);
+  }
+  20%,
+  80% {
+    transform: translate3d(2px, 0, 0);
+  }
+  30%,
+  50%,
+  70% {
+    transform: translate3d(-4px, 0, 0);
+  }
+  40%,
+  60% {
+    transform: translate3d(4px, 0, 0);
   }
 }
