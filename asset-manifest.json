@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Jerome-s-Birthday-Surprise/static/css/main.2603fece.chunk.css",
+    "main.js": "/Jerome-s-Birthday-Surprise/static/js/main.fa7bbb3d.chunk.js",
+    "main.js.map": "/Jerome-s-Birthday-Surprise/static/js/main.fa7bbb3d.chunk.js.map",
+    "runtime-main.js": "/Jerome-s-Birthday-Surprise/static/js/runtime-main.7401b75f.js",
+    "runtime-main.js.map": "/Jerome-s-Birthday-Surprise/static/js/runtime-main.7401b75f.js.map",
+    "static/css/2.fb346933.chunk.css": "/Jerome-s-Birthday-Surprise/static/css/2.fb346933.chunk.css",
+    "static/js/2.b5d2f2be.chunk.js": "/Jerome-s-Birthday-Surprise/static/js/2.b5d2f2be.chunk.js",
+    "static/js/2.b5d2f2be.chunk.js.map": "/Jerome-s-Birthday-Surprise/static/js/2.b5d2f2be.chunk.js.map",
+    "index.html": "/Jerome-s-Birthday-Surprise/index.html",
+    "precache-manifest.90698489a95fc8c961d6313d5cbfd817.js": "/Jerome-s-Birthday-Surprise/precache-manifest.90698489a95fc8c961d6313d5cbfd817.js",
+    "service-worker.js": "/Jerome-s-Birthday-Surprise/service-worker.js",
+    "static/css/2.fb346933.chunk.css.map": "/Jerome-s-Birthday-Surprise/static/css/2.fb346933.chunk.css.map",
+    "static/css/main.2603fece.chunk.css.map": "/Jerome-s-Birthday-Surprise/static/css/main.2603fece.chunk.css.map",
+    "static/js/2.b5d2f2be.chunk.js.LICENSE.txt": "/Jerome-s-Birthday-Surprise/static/js/2.b5d2f2be.chunk.js.LICENSE.txt",
+    "static/media/cranky.png": "/Jerome-s-Birthday-Surprise/static/media/cranky.499b1af2.png",
+    "static/media/jer0.png": "/Jerome-s-Birthday-Surprise/static/media/jer0.a8775209.png",
+    "static/media/jer1.png": "/Jerome-s-Birthday-Surprise/static/media/jer1.5b54aebb.png",
+    "static/media/jer2.png": "/Jerome-s-Birthday-Surprise/static/media/jer2.7a893ec1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7401b75f.js",
+    "static/css/2.fb346933.chunk.css",
+    "static/js/2.b5d2f2be.chunk.js",
+    "static/css/main.2603fece.chunk.css",
+    "static/js/main.fa7bbb3d.chunk.js"
+  ]
+}
